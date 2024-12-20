@@ -1,6 +1,5 @@
-module github.com/hugo-fixit/hugo-fixit-starter
-
-go 1.19
+module github.com/y7syeu/y7syeu.github.io
+go 1.20
 
 require (
 	github.com/hugo-fixit/FixIt v0.3.16 // indirect
